@@ -105,4 +105,5 @@ venv.bak/
 
 
 car_damage_check/
+car_damage_directional/
 vgg16.h5
